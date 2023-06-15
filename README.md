@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benyoubilel" alt="benyoubilel" /></a> </p>
 
-- 🌱 I’m currently learning **VueJs, NodeJs, Laravel and Unity**
+- 🌱 I’m currently learning **Laravel, HTML, Java, Css, Php, Spring Boot, NextJs and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://bilelbenyoussef.me](https://bilelbenyoussef.me)
 
-- 💬 Ask me about **Laravel, HTML, Java, Css, Php, Spring Boot and JavaScript**
+- 💬 Ask me about **Laravel, HTML, Java, Css, Php, Spring Boot, NextJs and JavaScript**
 
 - 📫 How to reach me **bilel@ben-youssef.fr**
 

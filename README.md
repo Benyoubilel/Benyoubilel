@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel, HTML, Java, Css, Php, Spring Boot, NextJs and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://bilelbenyoussef.me](https://bilelbenyoussef.me)
+- 👨‍💻 All of my projects are available at [https://bilelbenyoussef.netlify.app](https://bilelbenyoussef.netlify.app)
 
 - 💬 Ask me about **Laravel, HTML, Java, Css, Php, Spring Boot, NextJs and JavaScript**
 
